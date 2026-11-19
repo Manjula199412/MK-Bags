@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MK Bags</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_admin_orders">Admin-Orders</string>
+    <string name="nav_admin_inventory">Inventory</string>
+    <string name="nav_admin_customize">Customize</string>
+    <string name="admin_exit">Exit Admin</string>
+    <string name="error_empty_name">Please enter your full name.</string>
+    <string name="error_invalid_phone">Please enter a valid 10-digit phone number.</string>
+    <string name="error_empty_address">Please enter a delivery address.</string>
+    <string name="error_empty_upi_ref">Please enter your UPI transaction reference after paying.</string>
+</resources>

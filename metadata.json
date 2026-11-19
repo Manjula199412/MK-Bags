@@ -1,0 +1,6 @@
+{
+  "name": "MK Bags",
+  "description": "Shop curated bags, combos, and limited-time bundle deals with UPI & 65% COD upfront checkout, live order tracking, and a customizable admin storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
